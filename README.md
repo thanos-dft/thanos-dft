@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @thanos-dft
-- 🌱 I’m currently learning Python
+- 🐍 Junior Python developer
+- 🌱 I’m currently learning Flask
 - 📫 How to reach me my linked in profile is https://www.linkedin.com/in/thanos-dft/
 
 
