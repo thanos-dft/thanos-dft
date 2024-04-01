@@ -13,6 +13,7 @@ I'm a junior-level developer with experience in CSS, and HTML. I've also worked 
 - **Cloud Software:** Familiarity with cloud computing platforms
 - **Linux:** Familiriaty with Unix based operating systems particularly Kali, Arch, Mint, Parrot
 - **Version Control** Experience working with version control systems such as Git
+- **Web Scrapping** Experience web scrapping using the beautiful soup package
 
 ## Currently Learning
 
