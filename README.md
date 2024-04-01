@@ -11,6 +11,8 @@ I'm a junior-level developer with experience in CSS, and HTML. I've also worked 
 - **Web Development:** Frontend development using HTML and CSS
 - **APIs:** Experience working with RESTful APIs
 - **Cloud Software:** Familiarity with cloud computing platforms
+- **Linux:** Familiriaty with Unix based operating systems particularly Kali, Arch, Mint, Parrot
+- **Version Control** Experience working with version control systems such as Git
 
 ## Currently Learning
 
