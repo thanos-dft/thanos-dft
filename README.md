@@ -14,9 +14,9 @@ I'm a junior-level developer with experience in CSS, and HTML. I've also worked 
 - **Linux:** Familiriaty with Unix based operating systems particularly Kali, Arch, Mint, Parrot
 - **Version Control** Experience working with version control systems such as Git
 - **Web Scrapping** Experience web scrapping using the beautiful soup package
-
+- **Web Frameworks:** Familiarity with Flask for backend development
 ## Currently Learning
 
-I'm currently learning Flask to expand my knowledge in web development and backend technologies.
+I'm currently experimenting with flutter and dart and learning more about app development.
 
 Feel free to explore my repositories to learn more about my work! If you have any questions or would like to collaborate, don't hesitate to reach out.
