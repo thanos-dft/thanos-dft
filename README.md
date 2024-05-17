@@ -17,6 +17,6 @@ I'm a junior-level developer with experience in CSS, and HTML. I've also worked 
 - **Web Frameworks:** Familiarity with Flask for backend development
 ## Currently Learning
 
-I'm currently experimenting with flutter and dart and learning more about app development.
+I'm currently experimenting with flask trying to expand my knowledge.
 
 Feel free to explore my repositories to learn more about my work! If you have any questions or would like to collaborate, don't hesitate to reach out.
